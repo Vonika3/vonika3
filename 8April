@@ -9,6 +9,6 @@ int main(){
         cout << "Hey these are equal" <<endl;
     }
     else {
-        cout<< "These are not equal" <<endl;
+        cout<< "These are not equal" <<endl ;
     }
 }
